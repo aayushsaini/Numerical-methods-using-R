@@ -3,9 +3,10 @@
 #Q1
 n = 100  
 prob <- c(n) 
-for (i in 1:n)      {
+for (i in 1:n) {
   q <- 1 - (0:(i - 1))/365  # No same b'day
-  prob[i] <- 1 - prod(q)  }
+  prob[i] <- 1 - prod(q)  
+}
 plot(prob, main="Q1. Probability of at least 2 people have same Birthday", xlab ="Number of People", ylab = "Probability", pch=16, cex=0.5 ,col="blue")
 
 
