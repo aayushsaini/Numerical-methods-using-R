@@ -4,8 +4,8 @@
 Please Note:
 -------------------------------------------------------------
 1. Uncomment line: 13 and comment line: 15 for another dataset
-2. Line:18 - Linear Model Summary for coefficients
-3. Line:26 - Quadratic Model Summary for coefficients
+2. Line:20 - Linear Model Summary for coefficients
+3. Line:28 - Quadratic Model Summary for coefficients
 "
 
 #Linear Model
