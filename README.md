@@ -1,5 +1,5 @@
-# Numerical-methods-using-R
-Basic numerical methods' questions implementation using R
+# Using R to solve statistical & probability based questions
+Basic statistical, probability questions implementation using R
 
 <b>1. Linear & Quadratic Regression Plots</b>
 
